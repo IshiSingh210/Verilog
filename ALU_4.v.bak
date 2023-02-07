@@ -1,0 +1,21 @@
+module ALU_4 (op,a,b,x);
+  output reg [3:0] op;     
+   input [3:0] a,b;    
+   input [2:0] x;   
+always @(*)
+begin
+ case (x)
+   4'b000 : begin op = a + b; $display("Addition operation"); end
+   4'b001 : begin op = a - b; $display("Subtraction operation"); end
+   4'b010 : begin op = a * b; $display("Multiplication operation"); end
+   4'b011 : begin op = a / b; $display("Division operation"); end
+   4'b100 : begin op = a % b; $display("Modulo Division operation"); end
+   4'b101 : begin op = a & b; $display("Bit-wise AND operation"); end
+   4'b110 : begin op = a | b; $display("Bit-wise OR operation"); end
+   4'b111 : begin op = ~ a; $display("Bit-wise Invert operation"); end
+   default:op = 8'bXXXXXXXX;
+ endcase
+end
+endmodule
+
+

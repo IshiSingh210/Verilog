@@ -1,0 +1,20 @@
+module decode(E,A,B,C,D,Y15,Y14,Y13,Y12,Y11,Y10,Y9,Y8,Y7,Y6,Y5,Y4,Y3,Y2,Y1,Y0);
+  input E,A,B,C,D;
+  output Y15,Y14,Y13,Y12,Y11,Y10,Y9,Y8,Y7,Y6,Y5,Y4,Y3,Y2,Y1,Y0;
+  assign Y15=E&A&B&C&D;
+  assign Y14=E&A&B&C&~D;
+  assign Y13=E&A&B&~C&D;
+  assign Y12=E&A&B&~C&~D;
+  assign Y11=E&A&~B&C&D;
+  assign Y10=E&A&~B&C&~D;
+  assign Y9=E&A&~B&~C&D;
+  assign Y8=E&A&~B&~C&~D;
+  assign Y7=E&~A&B&C&D;
+  assign Y6=E&~A&B&C&~D;
+  assign Y5=E&~A&B&~C&D;
+  assign Y4=E&~A&B&~C&~D;
+  assign Y3=E&~A&~B&C&D;
+  assign Y2=E&~A&~B&C&~D;
+  assign Y1=E&~A&~B&~C&D;
+  assign Y0=E&~A&~B&~C&~D;
+endmodule

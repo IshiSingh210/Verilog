@@ -1,0 +1,16 @@
+module decoder_3(E,A,B,C,Y7,Y6,Y5,Y4,Y3,Y2,Y1,Y0);
+  input E,A,B,C;
+  output Y7,Y6,Y5,Y4,Y3,Y2,Y1,Y0;
+  assign Y7=E&A&B&C;
+  assign Y6=E&A&B&~C;
+  assign Y5=E&A&~B&C;
+  assign Y4=E&A&~B&~C;
+  assign Y3=E&~A&B&C;
+  assign Y2=E&~A&B&~C;
+  assign Y1=E&~A&~B&C;
+  assign Y0=E&~A&~B&~C;
+endmodule
+
+
+
+

@@ -1,0 +1,5 @@
+module MUX_8(S2,S1,S0,I0,I1,I2,I3,I4,I5,I6,I7,Y);
+  input S2,S1,S0,I0,I1,I2,I3,I4,I5,I6,I7;
+  output Y;
+  assign Y=(S2&S1&S0&I0);
+endmodule

@@ -1,0 +1,211 @@
+C:/altera/13.0sp1/multi.v {1 {vlog -work work C:/altera/13.0sp1/multi.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multi
+
+Top level modules:
+	multi
+
+} {} {}} C:/altera/13.0sp1/comparator_4.v {1 {vlog -work work C:/altera/13.0sp1/comparator_4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} C:/altera/13.0sp1/decode.v {1 {vlog -work work C:/altera/13.0sp1/decode.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/altera/13.0sp1/Q3.v {1 {vlog -work work C:/altera/13.0sp1/Q3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Q3
+
+Top level modules:
+	Q3
+
+} {} {}} C:/altera/13.0sp1/UpDown.v {1 {vlog -work work C:/altera/13.0sp1/UpDown.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UpDown
+
+Top level modules:
+	UpDown
+
+} {} {}} C:/altera/13.0sp1/siso.v {1 {vlog -work work C:/altera/13.0sp1/siso.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module siso
+
+Top level modules:
+	siso
+
+} {} {}} C:/altera/13.0sp1/MUX_16.v {1 {vlog -work work C:/altera/13.0sp1/MUX_16.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_16
+
+Top level modules:
+	MUX_16
+
+} {} {}} C:/altera/13.0sp1/decoder_3.v {1 {vlog -work work C:/altera/13.0sp1/decoder_3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decode_3
+
+Top level modules:
+	decode_3
+
+} {} {}} C:/altera/13.0sp1/jkff.v {1 {vlog -work work C:/altera/13.0sp1/jkff.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jkff
+
+Top level modules:
+	jkff
+
+} {} {}} C:/altera/13.0sp1/POS.v {1 {vlog -work work C:/altera/13.0sp1/POS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module POS
+
+Top level modules:
+	POS
+
+} {} {}} C:/altera/13.0sp1/ALU_1.v {1 {vlog -work work C:/altera/13.0sp1/ALU_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_1_bit
+
+Top level modules:
+	ALU_1_bit
+
+} {} {}} C:/altera/13.0sp1/segment7.v {1 {vlog -work work C:/altera/13.0sp1/segment7.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module segment7
+
+Top level modules:
+	segment7
+
+} {} {}} C:/altera/13.0sp1/full_adder.v {1 {vlog -work work C:/altera/13.0sp1/full_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} C:/altera/13.0sp1/SOP.v {1 {vlog -work work C:/altera/13.0sp1/SOP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SOP
+
+Top level modules:
+	SOP
+
+} {} {}} C:/altera/13.0sp1/full_subtractor.v {1 {vlog -work work C:/altera/13.0sp1/full_subtractor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_subtractor
+
+Top level modules:
+	full_subtractor
+
+} {} {}} C:/altera/13.0sp1/sipo.v {1 {vlog -work work C:/altera/13.0sp1/sipo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sipo
+
+Top level modules:
+	sipo
+
+} {} {}} C:/altera/13.0sp1/piso.v {1 {vlog -work work C:/altera/13.0sp1/piso.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module piso
+
+Top level modules:
+	piso
+
+} {} {}} C:/altera/13.0sp1/Parallel_Adder.v {1 {vlog -work work C:/altera/13.0sp1/Parallel_Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parallel_Adder
+
+Top level modules:
+	Parallel_Adder
+
+} {} {}} C:/altera/13.0sp1/decode_2.v {1 {vlog -work work C:/altera/13.0sp1/decode_2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decode_2
+
+Top level modules:
+	decode_2
+
+} {} {}} C:/altera/13.0sp1/ALU_4.v {1 {vlog -work work C:/altera/13.0sp1/ALU_4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_4
+
+Top level modules:
+	ALU_4
+
+} {} {}} C:/altera/13.0sp1/BCDripple.v {1 {vlog -work work C:/altera/13.0sp1/BCDripple.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BCDripple
+
+Top level modules:
+	BCDripple
+
+} {} {}} C:/altera/13.0sp1/fsm.v {1 {vlog -work work C:/altera/13.0sp1/fsm.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MOORE
+
+Top level modules:
+	MOORE
+
+} {} {}} C:/altera/13.0sp1/deMUX_4.v {1 {vlog -work work C:/altera/13.0sp1/deMUX_4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module deMUX_4
+
+Top level modules:
+	deMUX_4
+
+} {} {}} C:/altera/13.0sp1/Johnson.v {1 {vlog -work work C:/altera/13.0sp1/Johnson.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Johnson
+
+Top level modules:
+	Johnson
+
+} {} {}} C:/altera/13.0sp1/tff.v {1 {vlog -work work C:/altera/13.0sp1/tff.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tff
+
+Top level modules:
+	tff
+
+} {} {}} C:/altera/13.0sp1/dff.v {1 {vlog -work work C:/altera/13.0sp1/dff.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} C:/altera/13.0sp1/pipo.v {1 {vlog -work work C:/altera/13.0sp1/pipo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipo
+
+Top level modules:
+	pipo
+
+} {} {}} C:/altera/13.0sp1/MUX_8.v {1 {vlog -work work C:/altera/13.0sp1/MUX_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_8
+
+Top level modules:
+	MUX_8
+
+} {} {}} C:/altera/13.0sp1/ALU.v {1 {vlog -work work C:/altera/13.0sp1/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/altera/13.0sp1/deMUX_8.v {1 {vlog -work work C:/altera/13.0sp1/deMUX_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module deMUX_8
+
+Top level modules:
+	deMUX_8
+
+} {} {}}

@@ -1,0 +1,8 @@
+module decode_2(E,A,B,Y3,Y2,Y1,Y0);
+  input E,A,B;
+  output Y3,Y2,Y1,Y0;
+  assign Y3=E&A&B;
+  assign Y2=E&A&~B;
+  assign Y1=E&~A&B;
+  assign Y0=E&~A&~B;
+endmodule

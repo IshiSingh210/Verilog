@@ -1,0 +1,16 @@
+module comp(a,b,eq,gr,le);
+input [3:0] a,b;
+output reg eq,gr,le;
+always @(a or b)
+begin
+eq=0; 
+gr=0; 
+le=0;
+if(a==b)
+eq=1;
+else if (a>b)
+gr=1;
+else
+le=1;
+end
+endmodule
